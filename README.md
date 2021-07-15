@@ -8,7 +8,7 @@
 * git :
 * contact :
 
-----
+---
 
 * nom : mon-oral
 * favicon : https://www.mon-oral.net/img/favicon.png
